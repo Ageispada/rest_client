@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/02/14 17:43:42.000.025,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/02/14 17:47:28.000.190,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit1.pas</Transaction>
+    <Transaction>2016/02/14 17:47:28.000.190,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit1.fmx</Transaction>
+    <Transaction>2016/02/14 17:47:29.000.503,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Project1.dproj</Transaction>
+    <Transaction>2016/02/24 12:08:17.000.064,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit2.pas</Transaction>
+    <Transaction>2016/02/29 19:41:20.000.824,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit3.pas</Transaction>
+    <Transaction>2016/02/29 21:25:41.000.453,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit3.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit4.pas</Transaction>
+    <Transaction>2016/02/29 21:25:41.000.453,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit3.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit4.fmx</Transaction>
+    <Transaction>2016/02/29 21:26:30.000.052,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit3.pas</Transaction>
+    <Transaction>2016/02/29 21:30:10.000.527,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit4.pas=</Transaction>
+    <Transaction>2016/03/01 15:27:21.000.456,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit4.pas</Transaction>
+    <Transaction>2016/03/09 17:08:45.000.141,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit5.pas</Transaction>
+    <Transaction>2016/03/11 18:27:50.000.290,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit6.pas</Transaction>
+    <Transaction>2016/03/11 19:36:05.000.809,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit7.pas</Transaction>
+    <Transaction>2016/03/11 20:16:09.000.915,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit7.pas=</Transaction>
+    <Transaction>2016/03/11 20:16:52.000.524,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit7.pas</Transaction>
+    <Transaction>2017/08/29 13:37:26.000.690,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\index.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit1.fmx</Transaction>
+    <Transaction>2017/08/29 13:37:26.000.690,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\index.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit1.pas</Transaction>
+    <Transaction>2017/08/29 13:39:26.000.556,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\unit1.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\index.pas</Transaction>
+    <Transaction>2017/08/29 13:39:26.000.556,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\unit1.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\index.fmx</Transaction>
+    <Transaction>2017/08/29 15:49:14.000.562,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\unit1.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\unit_index.fmx</Transaction>
+    <Transaction>2017/08/29 15:49:14.000.562,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\unit1.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\unit_index.pas</Transaction>
+    <Transaction>2017/08/29 15:50:52.000.640,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit2.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_cuenta.fmx</Transaction>
+    <Transaction>2017/08/29 15:50:52.000.640,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit2.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_cuenta.pas</Transaction>
+    <Transaction>2017/08/29 15:51:38.000.274,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit3.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_grupos.fmx</Transaction>
+    <Transaction>2017/08/29 15:51:38.000.274,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit3.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_grupos.pas</Transaction>
+    <Transaction>2017/08/29 15:52:23.000.212,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit4.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_items.pas</Transaction>
+    <Transaction>2017/08/29 15:52:23.000.212,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit4.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_items.fmx</Transaction>
+    <Transaction>2017/08/29 15:53:08.000.985,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit5.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_directorio.fmx</Transaction>
+    <Transaction>2017/08/29 15:53:08.000.985,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit5.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_directorio.pas</Transaction>
+    <Transaction>2017/08/29 15:53:55.000.043,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit6.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_observaciones.fmx</Transaction>
+    <Transaction>2017/08/29 15:53:55.000.043,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit6.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_observaciones.pas</Transaction>
+    <Transaction>2017/08/29 15:54:48.000.822,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit7.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_cantidades.pas</Transaction>
+    <Transaction>2017/08/29 15:54:48.000.822,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit7.fmx=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\restaurant\Unit_cantidades.fmx</Transaction>
+  </Transactions>
+	<MobileDevice>0123456789ABCDEF-Android</MobileDevice>
+</BorlandProject>

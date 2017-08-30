@@ -1,0 +1,20 @@
+inherited Form1_LgXhdpiTb: TForm1_LgXhdpiTb
+  ClientHeight = 829
+  ClientWidth = 480
+  DesignerMasterStyle = 3
+  inherited LayoutError: TLayout
+    inherited Label1: TLabel
+      Position.X = -8.000000000000000000
+    end
+  end
+  inherited LayoutContenido: TLayout
+    inherited ScrollContenido: TScrollBox
+      Viewport.Width = 50.000000000000000000
+      Viewport.Height = 50.000000000000000000
+    end
+  end
+  inherited MemoRequest: TMemo
+    Viewport.Width = 89.000000000000000000
+    Viewport.Height = 65.000000000000000000
+  end
+end
